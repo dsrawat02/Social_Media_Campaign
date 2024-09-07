@@ -44,7 +44,7 @@ Created and handled a professional social media account for a startup named The 
 
 - Campaign that resulted in a 91% increase in Instagram traffic and brand awareness.
 - More than 2.4k accounts engaged on Instagram and counting.
-- 350+ leads generated on Instagram and still counting.
+- 400+ leads generated on Instagram and still counting.
 - Decrease the CPC by 50%.
 - 5% increase in click-through rates.
 
