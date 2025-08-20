@@ -14,7 +14,7 @@
 
 Created and handled a professional social media account for a startup named The Street of Scents from scratch including designing the brand logo, creating a Facebook business page, and connecting it with the Instagram account through Meta Business Suit. Created engaging posts and posted them every day to get organic reach, and spread awareness of the brand. Created instant answers to make it easy for users to resolve their queries, feel important, and be in touch with the brand.
 
-![Screenshot_20240907-155257 (1)](https://github.com/user-attachments/assets/93f161f5-9712-4ce4-aaf7-a76c02ec89ca)
+![Screenshot_20250820-143626 (1)](https://github.com/user-attachments/assets/e5b68888-fdc9-43a1-bcf9-6a5097a53e03)
 
 
 ### Tools Used
